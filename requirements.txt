@@ -1,0 +1,15 @@
+openai
+scikit-learn
+pandas
+psycopg2-binary
+python-dotenv
+streamlit
+tqdm
+notebook==7.1.2
+ipywidgets
+jupyter
+requests
+pgcli
+questionary
+langfuse
+langchain
